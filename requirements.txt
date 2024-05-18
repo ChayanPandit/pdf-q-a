@@ -10,3 +10,4 @@ streamlit_chat
 sentence_transformers
 langchain-community 
 langchain-core
+langchain-openai
