@@ -1,1 +1,1 @@
-# Question/Answer on pdf with streamlit for frontend
+# Question/Answer on pdf with streamlit for GUI
